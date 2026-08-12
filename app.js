@@ -34,7 +34,6 @@ const buscarUsuario = async (id) => {
         esconder(divLoading)
         mostrarUsuario(divUsuario, resultado)
 
-        console.log(resultado)
 
     } catch (erro){
         esconder(divLoading);
