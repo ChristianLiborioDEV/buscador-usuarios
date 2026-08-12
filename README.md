@@ -23,10 +23,10 @@ Não é necessário instalar dependências, o projeto usa JavaScript puro.
 ## Conceitos aplicados
 - Arrow Functions - usadas em todas as funções
 - Promises - sistema assincrono JavaScript
-- Sync/Await - consumo da API de forma legível e moderna
+- Async/Await - consumo da API de forma legível e moderna
 - Manipulação do DOM - exibição dinâmica dos resultados na tela
 - Fetch API — requisição HTTP para API externa (JSONPlaceholder)
-- Tratamento de erros — throw new Error e try/catc` para erros HTTP e de rede
+- Tratamento de erros — throw new Error e try/catch para erros HTTP e de rede
 
 
 ## Exemplos de uso 
